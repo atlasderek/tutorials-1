@@ -1,3 +1,6 @@
+# From Udacity Linear Algebra Refresher course
+# https://classroom.udacity.com/courses/ud953
+
 # my_vector = Vector([1,2,3])
 # print(my_vector) = vector: 1,2,3
 # my_vector1 == my_vector2 : True or False
